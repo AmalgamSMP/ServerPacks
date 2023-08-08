@@ -1,0 +1,140 @@
+{
+ "format_version": 1,
+ "items": {
+    "minecraft:leather_helmet": [
+   {
+    "name": "demi_god_diamond_helmet",
+    "display_name": "Demi-God Diamond Helmet",
+    "icon": "demi_god_diamond_helmet",
+    "custom_model_data": 4
+   },
+   {
+    "name": "demi_god_iron_helmet",
+    "display_name": "Demi-God Iron Helmet",
+    "icon": "demi_god_iron_helmet",
+    "custom_model_data": 3
+   },
+   {
+    "name": "demi_god_gold_helmet",
+    "display_name": "Demi-God Gold Helmet",
+    "icon": "demi_god_gold_helmet",
+    "custom_model_data": 1
+   },
+   {
+    "name": "demi_god_chainmail_helmet",
+    "display_name": "Demi-God Chainmail Helmet",
+    "icon": "demi_god_chainmail_helmet",
+    "custom_model_data": 2
+   },
+   {
+    "name": "demi_god_netherite_helmet",
+    "display_name": "Demi-God Netherite Helmet",
+    "icon": "demi_god_netherite_helmet",
+    "custom_model_data": 5
+   },
+   {
+    "name": "demi_god_turtle_helmet",
+    "display_name": "Demi-God Turtle Helmet",
+    "icon": "demi_god_turtle_helmet",
+    "custom_model_data": 6
+   },
+  ],
+
+    "minecraft:leather_chestplate": [
+   {
+    "name": "demi_god_diamond_chestplate",
+    "display_name": "Demi-God Diamond Chestplate",
+    "icon": "demi_god_diamond_chestplate",
+    "custom_model_data": 4
+   },
+   {
+    "name": "demi_god_iron_chestplate",
+    "display_name": "Demi-God Iron Chestplate",
+    "icon": "demi_god_iron_chestplate",
+    "custom_model_data": 3
+   },
+   {
+    "name": "demi_god_gold_chestplate",
+    "display_name": "Demi-God Gold Chestplate",
+    "icon": "demi_god_gold_chestplate",
+    "custom_model_data": 1
+   },
+   {
+    "name": "demi_god_chainmail_chestplate",
+    "display_name": "Demi-God Chainmail Chestplate",
+    "icon": "demi_god_chainmail_chestplate",
+    "custom_model_data": 2
+   },
+   {
+    "name": "demi_god_netherite_chestplate",
+    "display_name": "Demi-God Netherite Chestplate",
+    "icon": "demi_god_netherite_chestplate",
+    "custom_model_data": 5
+   },
+  ],
+    "minecraft:leather_leggings": [
+   {
+    "name": "demi_god_diamond_leggings",
+    "display_name": "Demi-God Diamond Leggings",
+    "icon": "demi_god_diamond_leggings",
+    "custom_model_data": 4
+   },
+   {
+    "name": "demi_god_iron_leggings",
+    "display_name": "Demi-God Iron Leggings",
+    "icon": "demi_god_iron_leggings",
+    "custom_model_data": 3
+   },
+   {
+    "name": "demi_god_gold_leggings",
+    "display_name": "Demi-God Gold Leggings",
+    "icon": "demi_god_gold_leggings",
+    "custom_model_data": 1
+   },
+   {
+    "name": "demi_god_chainmail_leggings",
+    "display_name": "Demi-God Chainmail Leggings",
+    "icon": "demi_god_chainmail_leggings",
+    "custom_model_data": 2
+   },
+   {
+    "name": "demi_god_netherite_leggings",
+    "display_name": "Demi-God Netherite Leggings",
+    "icon": "demi_god_netherite_leggings",
+    "custom_model_data": 5
+   },
+  ],
+    "minecraft:leather_boots": [
+   {
+    "name": "demi_god_diamond_boots",
+    "display_name": "Demi-God Diamond Boots",
+    "icon": "demi_god_diamond_boots",
+    "custom_model_data": 4
+   },
+   {
+    "name": "demi_god_iron_boots",
+    "display_name": "Demi-God Iron Boots",
+    "icon": "demi_god_iron_boots",
+    "custom_model_data": 3
+   },
+   {
+    "name": "demi_god_gold_boots",
+    "display_name": "Demi-God Gold Boots",
+    "icon": "demi_god_gold_boots",
+    "custom_model_data": 1
+   },
+   {
+    "name": "demi_god_chainmail_boots",
+    "display_name": "Demi-God Chainmail Boots",
+    "icon": "demi_god_chainmail_boots",
+    "custom_model_data": 2
+   },
+   {
+    "name": "demi_god_netherite_boots",
+    "display_name": "Demi-God Netherite Boots",
+    "icon": "demi_god_netherite_boots",
+    "custom_model_data": 5
+   },
+  ],
+ }
+}
