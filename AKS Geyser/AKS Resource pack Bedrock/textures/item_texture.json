@@ -1,0 +1,71 @@
+{
+   "resource_pack_name" : "amalgam-kitchensink",
+   "texture_data" : {
+    	"demi_god_diamond_helmet": {
+	  "textures":"textures/demi_god_armors/items/diamond_helmet.png"
+	},
+    	"demi_god_diamond_chestplate": {
+	  "textures":"textures/demi_god_armors/items/diamond_chestplate.png"
+	},
+    	"demi_god_diamond_leggings": {
+	  "textures":"textures/demi_god_armors/items/diamond_leggings.png"
+	},
+    	"demi_god_diamond_boots": {
+	  "textures":"textures/demi_god_armors/items/diamond_boots.png"
+	},
+    	"demi_god_iron_helmet": {
+	  "textures":"textures/demi_god_armors/items/iron_helmet.png"
+	},
+    	"demi_god_iron_chestplate": {
+	  "textures":"textures/demi_god_armors/items/iron_chestplate.png"
+	},
+    	"demi_god_iron_leggings": {
+	  "textures":"textures/demi_god_armors/items/iron_leggings.png"
+	},
+    	"demi_god_iron_boots": {
+	  "textures":"textures/demi_god_armors/items/iron_boots.png"
+	},
+    	"demi_god_gold_helmet": {
+	  "textures":"textures/demi_god_armors/items/gold_helmet.png"
+	},
+    	"demi_god_gold_chestplate": {
+	  "textures":"textures/demi_god_armors/items/gold_chestplate.png"
+	},
+    	"demi_god_gold_leggings": {
+	  "textures":"textures/demi_god_armors/items/gold_leggings.png"
+	},
+    	"demi_god_gold_boots": {
+	  "textures":"textures/demi_god_armors/items/gold_boots.png"
+	},
+    	"demi_god_chainmail_helmet": {
+	  "textures":"textures/demi_god_armors/items/chainmail_helmet.png"
+	},
+    	"demi_god_chainmail_chestplate": {
+	  "textures":"textures/demi_god_armors/items/chainmail_chestplate.png"
+	},
+    	"demi_god_chainmail_leggings": {
+	  "textures":"textures/demi_god_armors/items/chainmail_leggings.png"
+	},
+    	"demi_god_chainmail_boots": {
+	  "textures":"textures/demi_god_armors/items/chainmail_boots.png"
+	},
+    	"demi_god_netherite_helmet": {
+	  "textures":"textures/demi_god_armors/items/netherite_helmet.png"
+	},
+    	"demi_god_netherite_chestplate": {
+	  "textures":"textures/demi_god_armors/items/netherite_chestplate.png"
+	},
+    	"demi_god_netherite_leggings": {
+	  "textures":"textures/demi_god_armors/items/netherite_leggings.png"
+	},
+    	"demi_god_netherite_boots": {
+	  "textures":"textures/demi_god_armors/items/netherite_boots.png"
+	},
+    	"demi_god_turtle_helmet": {
+	  "textures":"textures/demi_god_armors/items/turtle_helmet.png"
+	},
+
+      }
+   },
+   "texture_name" : "atlas.items"
+}
