@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "demi_god_armors:item/diamond_leggings"
+    "layer0": "demi_god_armors:item/base",
+    "layer1": "demi_god_armors:item/diamond_leggings"
   }
 }
